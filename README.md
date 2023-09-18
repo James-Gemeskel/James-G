@@ -1,6 +1,7 @@
 # James-Gemeskel
 
-##Portfolio
+###Portfolio
+
 ###Developers description
 Hard working individual that is extremely passionate and willing to learn more on the field of software development. Interested in acquiring in depth knowledge and experience about the specified field in order to accomplish self imposed objectives and more over become a solution for others.
 
